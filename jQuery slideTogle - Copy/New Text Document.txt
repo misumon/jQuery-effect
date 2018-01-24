@@ -1,0 +1,1 @@
+<!-- "click" ekhane "mouseover" dile mouse opre rakhlei up down korbe, click korle down hobe and abar click korle up korbe, and "dblclick" set kore click up down korbe, click korle down hobe and abar click korle up korbe-->

@@ -1,0 +1,24 @@
+body{}
+.container{
+	width:1170px;
+	height:400px;
+	margin:0 auto;
+	
+}
+.header{
+	background:green;
+	text-align:center;
+	color:#FFF;
+}
+.animation{
+	
+	width: 210px;
+	height: 210px;
+	background: red;
+	border-radius: 100%;
+}
+.footer{
+	background:green;
+	text-align:center;
+	color:#FFF;
+}
